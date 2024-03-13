@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:Bianca 
+-Profissão: Gerete de suporte tecnico
+-Cidade:Belo horizonte
+-O que faz nas horas vaga: jogo e leio
+-Feedback sobre o curso Qualidade de Software:Até o momento estou adorando
+-Feedback sobre a plataforma de estudo da EBAC: Os vídeos dão erro para carregar
+
+Obrigado!!!
+
+
